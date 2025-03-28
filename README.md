@@ -1,7 +1,6 @@
-# Rewind
+# 🔄 Rewind - A Reverse Engineering Challenge
 
-### A reverse engineering challenge
-
+## 🧩 Challenge Overview
 
 
 
