@@ -2,7 +2,6 @@ from typing import List, Dict, Callable, Any
 import random
 from bson import BSON
 from sys import exit
-import random
 
 '''
 Goal:
