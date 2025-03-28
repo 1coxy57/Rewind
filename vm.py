@@ -6,7 +6,7 @@ import os
 
 '''
 Goal:
-🟢 Easy: build hash generator
+🟢 Easy: build hash generator for first hash
 
 🟠 Medium: recode the bytecode logic so you are able to prlnt in the file without the program exitting
 
