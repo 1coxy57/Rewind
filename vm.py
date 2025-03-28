@@ -12,6 +12,8 @@ Goal:
 
 🔴 Hard: build hash generator for c0xy_hash
 
+for fun you could also try recreating the entire source cod
+
 created by coxy.57
 '''
 
