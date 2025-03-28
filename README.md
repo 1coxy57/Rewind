@@ -1,6 +1,7 @@
 # 🔄 Rewind
 ### A reverse engineering challenge
 
+In this challenge, your goal is to reverse a **Custom VM** (virtual machine) and turn **opcodes** into readable python code.
 
 
 # Credits
